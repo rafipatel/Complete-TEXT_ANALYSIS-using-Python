@@ -12,7 +12,7 @@ Objective of this document is to explain methodology adopted to perform text ana
 - Personal pronouns and etc
 
 To complete the assignment we are expected to read "Text Analysis.docx" to find values for the following :-
--Sentimental Analysis which includes:- 
+- Sentimental Analysis which includes:- 
  Positivity Score
  Negative Score
  Polarity Score
