@@ -19,7 +19,7 @@ To complete the assignment we are expected to read "Text Analysis.docx" to find 
  Subjectivity Score
  
 - Analysis of Readability which includes:-
-Average Senetence Length
+Average Sentence Length
 Percentage of Complex words
 Fog Index
 
