@@ -10,3 +10,22 @@ Objective of this document is to explain methodology adopted to perform text ana
 - Readability                                                                                     
 - Passive words                                                                                  
 - Personal pronouns and etc
+
+To complete the assignment we are expected to read "Text Analysis.docx" to find values for the following :-
+-Sentimental Analysis which includes:- 
+ Positivity Score
+ Negative Score
+ Polarity Score
+ Subjectivity Score
+ 
+- Analysis of Readability which includes:-
+Average Senetence Length
+Percentage of Complex words
+Fog Index
+
+- Complex Word Count
+- Word Count
+- Sylabble Count Per Word
+- Personal Pronouns
+- Average Word Length
+
